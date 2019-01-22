@@ -6,13 +6,18 @@ In this **POS SYSTEM** has all the fucnctionalities of a pos system, like custom
     * Manage Items
     * Place orders
     * View Orders
-    
+   
+## POS SYSTEM Main Menu
 ![mainpage](./screenshots/main.JPG) 
 
+## Customer Page 
 ![customer](./screenshots/customer.JPG) 
 
-![customer](./screenshots/item.JPG)
+## Item Page
+![Item](./screenshots/item.JPG)
 
-![customer](./screenshots/place_order.JPG)
+## Place Order Page
+![Place_Order](./screenshots/place_order.JPG)
 
-![orders](./screenshots/orders.JPG) 
+## Order View Page
+![orders_View](./screenshots/orders.JPG) 
